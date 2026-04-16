@@ -6,76 +6,89 @@
 
 <br><br>
 
-<h1>YOUR NAME</h1>
+<h2>your name</h2>
+<p>ui/ux designer</p>
 
-<p>UI/UX Designer</p>
+<br>
+
+<sub>simple. clean. intentional.</sub>
 
 </div>
 
 ---
 
-<!-- ================= STATEMENT ================= -->
-
 ##
 
-Designing interfaces that feel effortless.
+quietly building things that make sense.
 
 ---
 
 <!-- ================= ABOUT ================= -->
 
-## About
+## about
 
-I focus on clarity, structure, and usability.
+<table width="100%" style="border: 1px solid #2a2a2a; border-radius: 12px; padding: 18px;">
+<tr>
+<td>
 
-Every interface should be:
+hey, i design interfaces that feel natural and easy to use.
 
-* Simple to understand
-* Fast to use
-* Visually quiet
+* currently learning → interaction design
+* exploring → minimal ui systems
+* interested in → user flow & usability
+* fun → i redesign apps in my head
 
-Currently working on improving:
-
-* Interaction design
-* Design systems
-* Real-world UX problems
-
----
-
-<!-- ================= WORK ================= -->
-
-## Work
-
-<img src="PROJECT_IMAGE_1" width="100%" />
-
-Minimal redesign focused on usability and flow.
+</td>
+</tr>
+</table>
 
 ---
 
-<img src="PROJECT_IMAGE_2" width="100%" />
+<!-- ================= PROJECTS ================= -->
 
-Clean interface built with accessibility and clarity in mind.
+## selected work
+
+<table width="100%" style="border: 1px solid #2a2a2a; border-radius: 12px; padding: 16px;">
+<tr>
+<td align="center">
+
+<img src="PROJECT_IMAGE_1" width="90%" />
+
+<br><br>
+
+<b>food delivery redesign</b> <sub>simplified ordering experience</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table width="100%" style="border: 1px solid #2a2a2a; border-radius: 12px; padding: 16px;">
+<tr>
+<td align="center">
+
+<img src="PROJECT_IMAGE_2" width="90%" />
+
+<br><br>
+
+<b>finance dashboard ui</b> <sub>clean and structured interface</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ================= PRINCIPLES ================= -->
+<!-- ================= CONNECT ================= -->
 
-## Principles
+## connect
 
-* Remove the unnecessary
-* Respect the user’s time
-* Let content lead
-* Consistency over creativity
+<div align="center">
 
----
+<a href="YOUR_PORTFOLIO">portfolio</a> • <a href="YOUR_LINKEDIN">linkedin</a> • <a href="mailto:YOUR_EMAIL">email</a>
 
-<!-- ================= CONTACT ================= -->
-
-## Contact
-
-Portfolio
-LinkedIn
-Email
+</div>
 
 ---
 
@@ -85,6 +98,6 @@ Email
 
 <br>
 
-<sub>Less, but better.</sub>
+<sub>still learning. still improving.</sub>
 
 </div>
