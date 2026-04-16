@@ -1,5 +1,5 @@
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="YOUR_BANNER_IMAGE_URL" width="100%" alt="banner"/>
+<a href="https://github.com/iamRooney">
+  <img src="https://kommodo.ai/i/c0Ygh7f6sa2FxznK7cNR" width="100%" alt="banner"/>
 </a>
 
 <div align="center">
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:rooneyfrancis.official@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
@@ -28,7 +28,7 @@
 
 <p>
 
-Hey, <b>I'm YOUR NAME!</b> I'm a UI/UX student focused on designing clean, intuitive, and user-centered digital experiences. I enjoy turning complex ideas into simple interfaces and building systems that feel natural to use.
+Hey, <b>I'm Rooney!</b> I'm a UI/UX student focused on designing clean, intuitive, and user-centered digital experiences. I enjoy turning complex ideas into simple interfaces and building systems that feel natural to use.
 
 I spend my time working with tools like Figma and exploring interaction design, usability, and modern UI patterns. I’m particularly interested in minimal interfaces, design systems, and improving user flows.
 
