@@ -1,92 +1,57 @@
-<!-- ================= HERO ================= -->
+<!-- ================= HEADER ================= -->
 
-<div align="center">
-
-<img src="YOUR_BANNER_IMAGE_URL" width="100%" />
-
-<br><br>
-
-<h1>YOUR NAME</h1>
-
-<p>
-UI/UX Designer • Crafting Clean Interfaces • Obsessed with Details
+<h1 align="center">YourName ✨</h1>
+<p align="center">
+  UI/UX Designer • Problem Solver • Digital Craftsman
 </p>
 
-<br>
-
-<a href="YOUR_PORTFOLIO_LINK">Portfolio</a> • <a href="YOUR_LINKEDIN">LinkedIn</a> • <a href="mailto:YOUR_EMAIL">Email</a>
-
-</div>
-
----
-
-<!-- ================= IDENTITY ================= -->
-
-## ⚡ Identity
-
-```txt
-Role        → UI/UX Designer
-Focus       → User Experience + Visual Systems
-Design Style→ Minimal • Functional • Bold
-Mindset     → Design solves problems, not decorates them
-```
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL" width="100%" />
+</p>
 
 ---
 
 <!-- ================= ABOUT ================= -->
 
-## 🧠 About
+## 🧠 About Me
 
-I design interfaces that are **clean, usable, and intentional**.
+Hey there! I'm **YourName**
+A UI/UX student who designs experiences, not just screens.
 
-No clutter. No guesswork.
-Every pixel has a reason.
-
-Currently focused on:
-
-* Building strong **design systems**
-* Improving **user flows & usability**
-* Creating **real-world case studies**
+* 🎯 Focus: User-centered design & interaction systems
+* 🎨 Tools: Figma, Adobe XD, Photoshop
+* ⚡ Strength: Turning messy ideas into clean interfaces
+* 📚 Currently learning: Design Systems & UX Research
 
 ---
 
-<!-- ================= PROJECTS ================= -->
+<!-- ================= SHOWCASE ================= -->
 
-## 🧩 Selected Work
+## 🎨 Featured Projects
 
-### ▣ Project One
+### 🔹 Project One
 
 <img src="PROJECT_IMAGE_1" width="100%" />
 
-**Problem**
-Users struggled with navigation and clarity
-
-**Solution**
-Redesigned flow with simplified UI and hierarchy
-
-**Impact**
-Improved usability and reduced friction
+* Problem: Describe the problem
+* Solution: What you designed
+* Tools: Figma / Adobe XD
 
 ---
 
-### ▣ Project Two
+### 🔹 Project Two
 
 <img src="PROJECT_IMAGE_2" width="100%" />
 
-**Problem**
-Cluttered interface and poor UX
-
-**Solution**
-Minimal redesign with focus on accessibility
-
-**Impact**
-Cleaner experience and faster interaction
+* Problem: Describe
+* Solution: Describe
+* Outcome: What improved
 
 ---
 
-<!-- ================= DESIGN SYSTEM ================= -->
+<!-- ================= SKILLS ================= -->
 
-## 🎨 Design Stack
+## 🛠️ Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,html,css" />
@@ -94,20 +59,21 @@ Cleaner experience and faster interaction
 
 ---
 
-<!-- ================= PHILOSOPHY ================= -->
+<!-- ================= DESIGN PHILOSOPHY ================= -->
 
-## 🧭 Design Principles
+## 🧭 Design Philosophy
 
-* Clarity beats creativity
-* Simplicity scales
+> "Good design is invisible. Great design feels inevitable."
+
+* Simplicity over complexity
+* Function before decoration
 * Consistency builds trust
-* Users should never think twice
 
 ---
 
-<!-- ================= CONTACT ================= -->
+<!-- ================= CONNECT ================= -->
 
-## 🔗 Contact
+## 🔗 Connect
 
 <p align="center">
   <a href="YOUR_PORTFOLIO_LINK">Portfolio</a> •
@@ -117,16 +83,24 @@ Cleaner experience and faster interaction
 
 ---
 
-<!-- ================= FOOTER ================= -->
+<!-- ================= FUN TOUCH ================= -->
 
-<div align="center">
+## ⚡ Fun Zone
 
-<br>
+* ☕ Designs powered by coffee
+* 🎧 Music fuels creativity
+* 🧠 Always redesigning things in my head
 
-> “Design is not what it looks like. It’s how it works.”
+---
 
-<br>
+<!-- ================= STATS ================= -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
+## 📊 GitHub Stats
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark" />
+</p>
