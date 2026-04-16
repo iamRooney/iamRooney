@@ -1,5 +1,5 @@
 <a href="https://github.com/iamRooney">
-  <img src="https://raw.githubusercontent.com/iamRooney/iamRooney/refs/heads/main/2Untitled%20design.png" width="100%" alt="banner"/>
+  <img src="https://raw.githubusercontent.com/iamRooney/iamRooney/refs/heads/main/dreamboat%20%20rooney.png" width="100%" alt="banner"/>
 </a>
 
 <div align="center">
@@ -28,11 +28,7 @@
 
 <p>
 
-Hey, <b>I'm Rooney!</b> I'm a UI/UX student focused on designing clean, intuitive, and user-centered digital experiences. I enjoy turning complex ideas into simple interfaces and building systems that feel natural to use.
-
-I spend my time working with tools like Figma and exploring interaction design, usability, and modern UI patterns. I’m particularly interested in minimal interfaces, design systems, and improving user flows.
-
-When I’m not designing, I’m usually analyzing apps, redesigning them in my head, or trying to understand why some interfaces just feel better than others.
+Hey, <b>I’m Rooney</b> — a UI/UX student focused on crafting clean, intuitive, and user-centered digital experiences, with a strong interest in turning complex ideas into simple, elegant interfaces that feel natural to use. I spend most of my time working in Figma, exploring interaction design, usability, and modern UI patterns, while constantly refining my approach to minimal interfaces and structured design systems. I’m deeply interested in understanding how thoughtful user flows come together and why certain interfaces feel seamless while others don’t, which often leads me to analyze apps, rethink their design, and break down what truly makes a great user experience.
 
 </p>
 
