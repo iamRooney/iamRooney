@@ -1,5 +1,5 @@
-<div align="center">
-  <!-- <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" alt="banner" width="100%" /> -->
+<!-- <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" alt="banner" width="100%" />
 
   <br/>
 
@@ -7,7 +7,7 @@
   <h3>UI/UX Designer · Crafting intuitive & user-centered digital experiences · Frontend Developer</h3>
 
   <br/>
-</div>
+</div> -->
 
 ## 🎯 About Me
 
