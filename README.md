@@ -32,4 +32,8 @@ Hey, <b>I’m Rooney</b> — a UI/UX student focused on crafting clean, intuitiv
 
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iamRooney/iamRooney/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 </div>
