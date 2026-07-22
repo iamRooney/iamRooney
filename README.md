@@ -5,24 +5,7 @@
 <br/>
 
 <h1>Hey, I'm Rooney 👋</h1>
-<h3>UI/UX Designer · Crafting clean, intuitive & user-centered digital experiences</h3>
-
-<a href="https://uiron.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:rooneyfrancis.official@outlook.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/rooneee_y/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/github/stars/iamRooney?style=for-the-badge&color=blueviolet&label=Stars" />
-<img src="https://img.shields.io/github/followers/iamRooney?style=for-the-badge&color=blue&label=Followers" />
-
-</div>
+<h3>UI/UX Designer · Crafting intuitive & user-centered digital experiences · Frontend Devloper </h3>
 
 <br/>
 
@@ -34,8 +17,7 @@ I'm a **UI/UX student** passionate about turning complex ideas into simple, eleg
 - 🌱 Deep-diving into design systems, micro-interactions, and product thinking
 - 🧠 I love reverse-engineering great apps to understand *why* they feel seamless
 - 📍 Based in Kerala, India
-- ⚡ Fun fact: I analyze random apps for fun and redesign their flows just to see if I can make them better
-
+  
 <br/>
 
 ## 🛠️ Tools & Skills
@@ -49,53 +31,6 @@ I'm a **UI/UX student** passionate about turning complex ideas into simple, eleg
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-
-</div>
-
-<br/>
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/iamRooney/StockSage-Flutter-Frontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamRooney&repo=StockSage-Flutter-Frontend&theme=default&hide_border=true" />
-</a>
-<a href="https://github.com/iamRooney/spam.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamRooney&repo=spam.io&theme=default&hide_border=true" />
-</a>
-<br/>
-<a href="https://github.com/OfficialSreehariVinod/StockSage">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OfficialSreehariVinod&repo=StockSage&theme=default&hide_border=true" />
-</a>
-<a href="https://github.com/OfficialSreehariVinod/Internly">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OfficialSreehariVinod&repo=Internly&theme=default&hide_border=true" />
-</a>
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=iamRooney&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamRooney&theme=default&hide_border=true" width="49%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamRooney&layout=compact&theme=default&hide_border=true" width="49%" />
-
-</div>
-
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamRooney&theme=minimal&hide_border=true&area=true" width="100%" />
 
 </div>
 
