@@ -42,19 +42,64 @@ I'm a **UI/UX student** passionate about turning complex ideas into simple, eleg
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <br/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 
 </div>
 
+<br/>
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/iamRooney/StockSage-Flutter-Frontend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamRooney&repo=StockSage-Flutter-Frontend&theme=default&hide_border=true" />
+</a>
+<a href="https://github.com/iamRooney/spam.io">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamRooney&repo=spam.io&theme=default&hide_border=true" />
+</a>
+<br/>
+<a href="https://github.com/OfficialSreehariVinod/StockSage">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OfficialSreehariVinod&repo=StockSage&theme=default&hide_border=true" />
+</a>
+<a href="https://github.com/OfficialSreehariVinod/Internly">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OfficialSreehariVinod&repo=Internly&theme=default&hide_border=true" />
+</a>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=iamRooney&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamRooney&theme=default&hide_border=true" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamRooney&layout=compact&theme=default&hide_border=true" width="49%" />
+
+</div>
+
+<br/>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamRooney&theme=minimal&hide_border=true&area=true" width="100%" />
+
+</div>
+
+<br/>
 
 ## 🤝 Let's Connect
 
