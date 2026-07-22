@@ -40,7 +40,6 @@ I'm a **UI/UX student** passionate about turning complex ideas into simple, eleg
 
 I'm always open to collaborating on design-driven projects, giving feedback, or just talking shop about product design and interfaces.
 
-<a href="https://uiron.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="mailto:rooneyfrancis.official@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://www.instagram.com/rooneee_y/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 
