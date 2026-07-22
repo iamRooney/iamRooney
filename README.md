@@ -1,52 +1,35 @@
-<!-- <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" alt="banner" width="100%" />
+### 📊 GitHub Stats
 
-  <br/>
+<img src="https://github-readme-stats.vercel.app/api?username=iamRooney&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamRooney&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=F2994A&currStreakLabel=58A6FF" height="165"/>
 
-  <h1>Hey, I'm Rooney 👋</h1>
-  <h3>UI/UX Designer · Crafting intuitive & user-centered digital experiences · Frontend Developer</h3>
+### 📈 Contribution Activity
 
-  <br/>
-</div> -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamRooney&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F2994A" width="100%"/>
 
-## 🎯 About Me
+### 💻 Tech Stack & Languages
 
-I'm a **UI/UX student** passionate about turning complex ideas into simple, elegant interfaces that feel natural to use. I spend most of my time in **Figma**, exploring interaction design, usability heuristics, and modern UI patterns — always refining my approach to minimal design and structured design systems.
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Objective-C](https://img.shields.io/badge/-Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- 🔭 Currently designing at **Appeonix Creative Lab**
-- 🌱 Deep-diving into design systems, micro-interactions, and product thinking
-- 🧠 I love reverse-engineering great apps to understand *why* they feel seamless
-- 📍 Based in Kerala, India
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamRooney&layout=donut&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9" height="200"/>
 
-<br/>
+### 🌐 Open Source Contributions
 
-## 🛠️ Tools & Skills
+| Repo | Language | Contributed to |
+|---|---|---|
+| [**Internly**](https://github.com/OfficialSreehariVinod/Internly) | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | OfficialSreehariVinod — 13 commits |
+| [**exbhexr**](https://github.com/nihari-20/exbhexr) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | nihari-20 — 3 PRs, 2 commits |
 
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-</div>
+### 📌 Notable Projects
 
-<br/>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm always open to collaborating on design-driven projects, giving feedback, or just talking shop about product design and interfaces.
-
-<a href="mailto:rooneyfrancis.official@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://www.instagram.com/rooneee_y/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>⭐ Thanks for stopping by — feel free to explore my repos above.</sub>
-</div>
+<a href="https://github.com/iamRooney/StockSage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iamRooney&repo=StockSage&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9" width="48%"/></a>
+<a href="https://github.com/iamRooney/spam.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iamRooney&repo=spam.io&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9" width="48%"/></a>
+<a href="https://github.com/iamRooney/StockSage-Flutter-Frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iamRooney&repo=StockSage-Flutter-Frontend&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9" width="48%"/></a>
+<a href="https://github.com/iamRooney/Internly"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iamRooney&repo=Internly&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9" width="48%"/></a>
