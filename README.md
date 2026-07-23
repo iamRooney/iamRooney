@@ -1,4 +1,4 @@
 
 <p align="center">
-  <img src="animation.gif" alt="Animation" width="600">
+  <img src="download.gif" alt="Animation" width="600">
 </p>
