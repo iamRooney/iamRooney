@@ -2,12 +2,15 @@ name: contribution animation
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write        
+
 jobs:
   animate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: iamRooney/contrib-blaster@main       
+      - uses: iamRooney/contrib-blaster@main
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output: gif
