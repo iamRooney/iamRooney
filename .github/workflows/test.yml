@@ -1,0 +1,16 @@
+name: Test contrib-blaster on my own graph
+on: workflow_dispatch
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ./
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output: gif
+      - uses: actions/upload-artifact@v4
+        with:
+          name: contrib-animation
+          path: output/
