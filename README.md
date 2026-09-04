@@ -1,7 +1,7 @@
 
-<p align="center">
+<!-- <p align="center">
   <img src="download-ezgif.com-resize.gif" alt="Animation" width="1600">
   <!-- length="200"  -->
-</p>
+</p> -->
 
-![Contribution animation](./output/contrib-animation.gif?v=2)
+/*![Contribution animation](./output/contrib-animation.gif?v=2)*/
